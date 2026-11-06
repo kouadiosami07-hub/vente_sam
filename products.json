@@ -1,0 +1,6 @@
+[
+{"id":"p1","title":"Écouteurs Bluetooth sans fil","price":12500,"old":18000,"cat":"Audio","stock":12,"desc":"Autonomie 20h, boîtier de charge, micro intégré.","photo":""},
+{"id":"p2","title":"Chargeur rapide 33W USB-C","price":6500,"old":0,"cat":"Chargeurs et câbles","stock":30,"desc":"Charge rapide compatible Android et iPhone récents.","photo":""},
+{"id":"p3","title":"Batterie externe 20 000 mAh","price":15000,"old":19500,"cat":"Batteries externes","stock":8,"desc":"Deux ports USB, affichage du niveau de charge.","photo":""},
+{"id":"p4","title":"Câble USB-C tressé 2 m","price":2500,"old":0,"cat":"Chargeurs et câbles","stock":50,"desc":"Résistant, charge et transfert de données.","photo":""}
+]
